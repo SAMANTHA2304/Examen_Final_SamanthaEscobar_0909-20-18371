@@ -1,0 +1,56 @@
+import javax.swing.*;
+import java.util.Scanner;
+
+Public class Examen Final {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("LISTA DE ESTUDIANTES ");
+        System.out.print("DE QUE ESTUDIANTE DESEA CONSULTAR LA NOTA");
+        System.out.print("ESCRIBA EL NOMBRE");
+        int opcion = scanner.nextInt();
+
+
+
+            private static void calificacion (Scanner "scanner) {
+                System.out.print("Ingresa el nombre del estudiante");
+                int = scanner.nextInt())
+public static void {
+
+                        arraylistVoid
+                Juan Napoles; num 98 puntos;
+                    Jeremy Fernandez; num 75 puntos;
+                    Eizabeth Ramirez, num 89 puntos;
+                    Carolina Perdomo; num 90 puntos;
+                    Jenifer Aldana; num 100 puntos;
+                    katherine Campos; num 97 puntos;
+                    Manuel Lopez; num 63 puntos;
+                    Javier Guzman; num 50 puntos;
+                    Eduardo Gomez; num 72 puntos;
+                    Diana Reyes; num 53 puntos;
+        }
+
+        System.out.print("LA CALIFICACION DEL ESTUDIANTE ES DE:")
+
+switch (opcion)
+
+                case 1: scanner opcion ("estudiante"); calificacion;
+
+                break;
+
+                case 2: ("estudiante"); calificacion;
+
+                    break;
+                case 3: ("estudiante"); calificacion;
+
+                    break;
+            case 4: ("estudiante"); calificacion;
+
+                break;
+
+                case 5; ("estudiante"); calificacion;
+
+                    break;
+
+
+        System.out.print("MOSTRAR LISTA COMPLETA DE ESTUDIANTES");
+        System.out.print(scanner) list
